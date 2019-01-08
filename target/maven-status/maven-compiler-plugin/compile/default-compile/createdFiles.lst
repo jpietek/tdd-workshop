@@ -1,0 +1,6 @@
+META-INF/CompilerHints
+org/test/isbn/StockManager.class
+org/test/isbn/ExternalISBNDataService.class
+org/test/isbn/IsbnValidator.class
+META-INF/BenchmarkList
+org/test/isbn/Book.class

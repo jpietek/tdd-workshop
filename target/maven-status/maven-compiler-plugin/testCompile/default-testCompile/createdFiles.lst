@@ -1,0 +1,4 @@
+META-INF/CompilerHints
+org/test/isbn/StockManagementTest.class
+org/test/isbn/IsbnValidatorTest.class
+META-INF/BenchmarkList
